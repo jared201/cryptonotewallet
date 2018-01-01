@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/cryptonotefoundation/cryptonotewallet.git
+git clone https://github.com/jared201/cryptonotewallet.git
 ```
 
 **2. Modify `CryptoNoteWallet.cmake`**
@@ -21,7 +21,7 @@ ln -s ../cryptonote cryptonote
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/cryptonotefoundation/cryptonote.git cryptonote
+git submodule add https://github.com/jared201/cryptonote.git cryptonote
 ```
 
 Replace URL with git remote repository of your coin.
